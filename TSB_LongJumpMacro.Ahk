@@ -3,8 +3,8 @@
 SysGet, screenWidth, 78
 SysGet, screenHeight, 79
 
-tooltipX := screenWidth - 250  ; Adjust as needed
-tooltipY := screenHeight - 50  ; Adjust as needed
+tooltipX := screenWidth - 250
+tooltipY := screenHeight - 50
 
 ToolTip, Macro is working! Press 'Del' to close macro., %tooltipX%, %tooltipY%
 
