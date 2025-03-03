@@ -3,7 +3,6 @@ local V = "v2.3"
 --[[⨁]]--
 --[[thx for Orion Library and LuaObfuscator]]--
 --[[www.luaobfuscator.com]]--
---Version : 2.2
 --🌹--
 --What was that for?
 --Im just a small scriptter buddy.😏
